@@ -14,8 +14,8 @@
 
 ## 📈 Projects
 - 🧬 Heart Disease Risk Predictor 
-- ⚾ Baseball MVP Analysis 
-- 🌍 Vaccine Data EDA
+- 🧣 Hiv Data Analysis 
+- 📝 Regional Sales Analysis
 
 
 <!---
