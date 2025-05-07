@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm also an artist and a leader of the Artful Huskies club @Northeatsern University!🎨
 
 ## 📈 Projects
-- 🧬 Heart Disease Risk Predictor 
+- 🫀 Heart Disease Risk Predictor 
 - 🧣 Hiv Data Analysis 
 - 📝 Regional Sales Analysis
 
